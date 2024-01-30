@@ -1,5 +1,5 @@
 def calculator():
-    """Provides basic calculator functionality."""
+    """Provides basic calculator functionality.you can use it easily """
 
     while True:
         print("\nSelect operation:")
